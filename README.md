@@ -6,7 +6,7 @@ EFC App es una herramienta pensada para organizar tu preparación del examen de 
 
 ## ¿Qué puedes hacer con la app?
 
-### 📊 Dashboard (pantalla principal)
+### Dashboard (pantalla principal)
 Al entrar ves un resumen de tu avance general: cuántas preguntas has respondido, cuántas te faltan y tu porcentaje de progreso global. También encuentras tus asignaturas organizadas por área de conocimiento, para saltar rápido a la que quieras repasar.
 
 ### 📚 Resolver por asignatura
